@@ -56,13 +56,6 @@ $("#dep").click(function(){
     $("#account").text(newAccount.accountNumber);
     $("#accountDate").text(newAccount.date);
     $("#accountAmout").text(balance);
-
-    
- 
-
-
-    
-
 });
 $("#withdrow").click(function(){
     // alert("click")
