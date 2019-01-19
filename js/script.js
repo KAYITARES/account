@@ -1,3 +1,4 @@
+//business logic
 var newAccount;
 var balance
 function Account(accountNumber,name,amount,date){
